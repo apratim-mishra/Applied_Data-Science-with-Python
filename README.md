@@ -7,5 +7,5 @@ Applied Plotting
 
 Applied Machine Learning
 
-
+Text Mining
 
